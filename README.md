@@ -1,4 +1,4 @@
-# Hi, I'm Indra Arianggi S :wave:
+# Hi, I'm Angel Marquez :wave:
 
 I'm a Software Engineer, Fullstack from México 🇲🇽: , who currently focus on Express using JavaScript.
 
