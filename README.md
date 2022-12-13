@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi, I'm Indra Arianggi S :wave:
+
+I'm a Software Engineer, Fullstack from México 🇲🇽: , who currently focus on Express using JavaScript.
+
 
 <!--
 **iamangelmp/iamangelmp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
